@@ -2,7 +2,7 @@
 
 Version: 1.0
 */
-ul#desktop-nav li:nth-child(5) {
+ul#desktop-nav li:nth-child(5), ul#mobile-nav li:nth-child(5) {
     display: none;
 }
 /*------------------------------------------------------------------
